@@ -1,5 +1,5 @@
 # Implement-NN-from-Scratch---2-Layer-MLP-
-In this project two networks have been implemented from scratch: a simple softmax regression and a two-layer multi-layer perceptron (MLP).
+In this work two networks have been implemented from scratch: a simple softmax regression and a two-layer multi-layer perceptron (MLP).
 
 A simple pipeline of training neural networks is implemented to recognize MNIST Handwritten Digits (http://yann.lecun.com/exdb/mnist/).
 The code includes implementation of two neural network architectures along with the code to load data, train and optimize these networks.
