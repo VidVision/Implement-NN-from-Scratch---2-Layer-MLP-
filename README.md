@@ -52,7 +52,7 @@ Definitions of these classes can be found in ./models.
 
 The Softmax Regression is composed by a fully-connected layer followed by a ReLU activation. The two-layer MLP is composed by two fully-connected layers with a Sigmoid Activation in between.
 
-## Optimizer##
+## Optimizer ##
 - **./optimizer**
 * _base_optimizer.py*
 * sgd.py*
